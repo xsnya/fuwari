@@ -80,12 +80,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/tb-miao",
-		},
-		{
-			name: "weibo",
-			icon: "fa6-brands:weibo",
-			url: "https://weibo.com/u/8010806053",
+			url: "https://github.com/xsnya",
 		},
 		{
 			name: "zhihu",
@@ -93,7 +88,7 @@ export const profileConfig: ProfileConfig = {
 			url: "https://www.zhihu.com/people/gc-74-52",
 		},
 		{
-			name: "RSS",
+			name: "SITE's RSS",
 			icon: "fa6-solid:rss",
 			url: "/rss.xml",
 		},

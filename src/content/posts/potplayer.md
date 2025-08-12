@@ -14,5 +14,5 @@ potplayer是一款免费的视频播放器，支持多种视频格式，包括mk
 
 # 下载
 [https://potplayer.tv/?lang=zh_CN](https://potplayer.tv/?lang=zh_CN)
-# 视频源
-[https://tbmiao.dpdns.org/Download](https://tbmiao.dpdns.org/src/assets/images/Download/potplayer-box/boxTV.m3u)
+# 视频源（已失效—）
+[https://tbmiao.dpdns.org](https://tbmiao.dpdns.org)
