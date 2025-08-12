@@ -9,10 +9,10 @@ draft: false
 # 歌唱祖国
 
 ## 视频
-<video src="/src/assets/images/gczg/gczg.mp4" controls="controls" width="640" height="480"></video>
+<video src="/images/gczg/gczg.mp4" controls="controls" width="640" height="480"></video>
 
 ## 音频
-<audio src="/src/assets/images/gczg/123456.mp3" controls="controls" width="320" height="240"></audio>
+<audio src="/images/gczg/123456.mp3" controls="controls" width="320" height="240"></audio>
 
 ## 歌词
 ``` go

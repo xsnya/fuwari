@@ -9,7 +9,7 @@ series: "推荐工具"
 ---
 # GEEK UNINSTALLER
 
-<img src="/src/assets/images/xzgj/geek/geek.png" alt="GEEK UNINSTALLER" width="200" height="200">
+<img src="/images/xzgj/geek/geek.png" alt="GEEK UNINSTALLER" width="200" height="200">
 
 ## 兼容性
 32位和64位Windows 11/10/7/8/8.1。需要管理员权限。
@@ -22,7 +22,7 @@ series: "推荐工具"
 
 # HiBit Uninstaller
 
-<img src="/src/assets/images/xzgj\HiBit-Uninstaller\HiBit-Uninstaller.png" alt="HiBit Uninstaller" width="200" height="200">
+<img src="/images/xzgj\HiBit-Uninstaller\HiBit-Uninstaller.png" alt="HiBit Uninstaller" width="200" height="200">
 
 ### 介绍
 HiBit Uninstaller是一款开源的卸载软件，可以卸载大部分Windows软件。

@@ -25,7 +25,7 @@ toddesk官方网站：[https://www.todesk.com/](https://www.todesk.com/)
 
 # anydesk
 深受超过200,000位客户的信赖
-<img src="/src/assets/images/anydesk/2.png" alt="anydesk" />
+<img src="/images/anydesk/2.png" alt="anydesk" />
 ## 简介
 
 anydesk 是一款远程控制软件，可以让你在任何地方、任何时间、任何设备上远程控制你的电脑。

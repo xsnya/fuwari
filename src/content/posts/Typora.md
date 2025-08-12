@@ -16,5 +16,5 @@ Typora 是一款开源的 Markdown 编辑器和阅读器，支持 Windows、macO
 # 下载地址
 官方网站：[https://typoraio.cn/](https://typoraio.cn/)
 # 激活dll文件
-> [蓝奏云](https://qqtb.lanzoul.com/b00roaheod)
-> 密码:f9fa
+> [蓝奏云](https://qqtb.lanzoul.com/b00roaheod)<br>
+> 密码: f9fa
