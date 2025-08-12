@@ -1,6 +1,6 @@
 ---
 title: potplayer
-cover: https://t1.daumcdn.net/potplayer/main/img/favicon.ico
+image: https://t1.daumcdn.net/potplayer/main/img/favicon.ico
 published: 2024-10-26 12:18:38
 updated: 2024-10-26 12:18:38
 description: "potplayer"

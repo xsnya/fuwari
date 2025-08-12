@@ -2,7 +2,7 @@
 title: 伽卡他卡电子教室
 published: 2024-09-21 15:56:16
 updated: 2024-09-21 15:56:16
-cover: /src/assets/images/jktk/1.png
+image: /images/jktk/1.png
 description: "伽卡他卡电子教室"
 tags: ["工具"]
 draft: false

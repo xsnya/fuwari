@@ -14,13 +14,15 @@ draft: false
 1. Windows
 1.1 联网情况下，以管理员模式启动PowerShell
 点击开始，搜索栏搜索“Powershell", 点击以管理员身份运行
-<img src="/images/windows-jh/1.jpg" alt="1">
+
+<img src="/images/windows-jh/1.jpg" alt="1" style="zoom:50%;" />
 1.2. 复制以下命令到Powershell窗口, 回车
 ```
 irm https://get.activated.win | iex
 ```
 按1（数字许可证激活，HWID方式，永久激活Windows）
-<img src="/images/windows-jh/2.webp" alt="2">
+
+<img src="/images/windows-jh/2.webp" alt="2" style="zoom:50%;" />
 
 ## 命令详解：
 [1] HWID       # 数字许可证永久激活Windows，需要联网
@@ -51,14 +53,16 @@ irm https://get.activated.win | iex
       用键盘输入选择项，方括号中为可选项 [1,2,3,4,5,6,7,8,9,H,0] :
 
 1.3 看到 Successful关闭窗口即可。
-<img src="/images/windows-jh/3.jpg" alt="3">
+
+<img src="/images/windows-jh/3.jpg" alt="3" style="zoom:50%;" />
 
 ## 1.4 问题解决
 绝大多数情况以上方式就可以成功，对于不能成功的，尝试选3【KM38】方式
 记得关闭防病毒
 ## 2. Office激活
 选择2，离线永久激活
-<img src="/images/windows-jh/4.webp" alt="4">
+
+<img src="/images/windows-jh/4.webp" alt="4" style="zoom:50%;" />
 
 如果不成功，选择4，这种方式每180天会再次自动激活。无需额外操作。
 ## 3. 项目开源地址：

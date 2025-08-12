@@ -12,4 +12,5 @@ series: "推荐工具"
 啊啊啊啊啊啊！
 汉字丢失！！！！！！！！！！！！
 只能看图片了。。。
-<img src="/images/wdsj-wy/yd.png" alt="药水" />
+
+<img src="/images/wdsj-wy/yd.png"  alt="1"/>
