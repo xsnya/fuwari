@@ -1,5 +1,5 @@
 # 你好，很高兴认识你👋
->![](/src/assets/images/avatar.png)
+>![](/images/avatar.png)
 > ## 我叫AUNya,
 > 是一名学生、博主
 
