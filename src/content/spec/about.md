@@ -12,4 +12,10 @@
 - 邮箱：<EMAIL>init@tbmiao.dpdns.org</EMAIL>
 
 # markdown语法
-[https://elvish.me/posts/fuwari-markdown-test/](https://elvish.me/posts/fuwari-markdown-test/)by Elvishの小窝
+[https://elvish.me/posts/fuwari-markdown-test/](https://elvish.me/posts/fuwari-markdown-test/) by Elvishの小窝
+
+::github{repo="saicaca/fuwari"}
+
+```
+::github{repo="saicaca/fuwari"}
+```
